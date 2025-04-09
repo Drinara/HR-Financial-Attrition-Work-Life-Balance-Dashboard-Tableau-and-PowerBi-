@@ -1,5 +1,6 @@
 # HR-Financial-Attrition-Work-Life-Balance-Dashboard-Tableau-and-PowerBi-
 👥 HR Financial, Attrition & Work-Life Balance Dashboards (Power BI & Tableau)
+
 📁 Overview
 This project presents two interactive dashboards developed using Power BI and Tableau to support data-driven decisions in Human Resources. The dashboards help HR professionals and top management understand employee attrition patterns, financial compensation trends, and work-life balance challenges.
 
