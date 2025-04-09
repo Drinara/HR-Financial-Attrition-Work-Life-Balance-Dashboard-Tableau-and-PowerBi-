@@ -16,6 +16,7 @@ Operational Managers
 These dashboards provide actionable insights to improve employee retention, adjust salary structures, and promote work-life balance initiatives.
 
 🧱 Dashboard Structure
+
 📌 1. Financial & Compensation Insights (Power BI)
 Line Chart: Average monthly income trends by employee tenure
 
@@ -50,6 +51,7 @@ What role does work-life balance play in attrition?
 Are specific demographics more affected?
 
 🔍 Key Insights
+
 Employees with fewer years at the company earn lower salaries and are more likely to leave.
 
 High attrition in Sales and R&D departments points to workload and satisfaction issues.
@@ -61,6 +63,7 @@ Job level 3 has higher workload and attrition rates.
 Gender imbalance exists at top job levels (e.g., Job Level 5: 19 males, 7 females).
 
 ✅ Suggested Actions from Dashboard Insights
+
 Improve promotion and career development opportunities.
 
 Introduce retention strategies for high-attrition roles.
@@ -82,6 +85,7 @@ Create mentorship and leadership development programs.
 Redesign workload distribution for roles with high stress.
 
 🧠 What I Learned
+
 Built and structured dashboards in both Tableau and Power BI
 
 Used data storytelling to support HR decision-making
@@ -91,6 +95,7 @@ Practiced designing visuals tailored to business strategy
 Gained a deeper understanding of key HR analytics KPIs
 
 📂 Files in this Repository
+
 HR analytics Viz.twb → Tableau Dashboard File
 
 HR dashboard viz.pbix → Power BI Dashboard File
