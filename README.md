@@ -95,7 +95,7 @@ HR analytics Viz.twb → Tableau Dashboard File
 HR dashboard viz.pbix → Power BI Dashboard File
 
 📸 Dashboard Preview
-(You can add screenshots here later for visual appeal!)
+
 ![image](https://github.com/user-attachments/assets/942d8b6f-075f-4384-8707-eafb2ad5c5e2)
 ![image](https://github.com/user-attachments/assets/6d1ac801-9309-4ab6-b47c-8515d6efb028)
 
